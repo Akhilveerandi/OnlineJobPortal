@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|c:\\users\\akhil\\desktop\\asp.net\\jobportalsystem\\jobportalsystem\\pages\\forgotpasswordhandler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|solutionrelative:jobportalsystem\\pages\\forgotpasswordhandler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\jobportalsystem\\pages\\loginhandler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|solutionrelative:jobportalsystem\\pages\\loginhandler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\jobportalsystem\\pages\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|solutionrelative:jobportalsystem\\pages\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\jobportalsystem\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|solutionrelative:jobportalsystem\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\jobportalsystem\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|solutionrelative:jobportalsystem\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\jobportalsystem\\pages\\loginhandler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|solutionrelative:jobportalsystem\\pages\\loginhandler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\jobportalsystem\\pages\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|solutionrelative:jobportalsystem\\pages\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\jobportalsystem\\pages\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|solutionrelative:jobportalsystem\\pages\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\jobportalsystem\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|solutionrelative:jobportalsystem\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\jobportalsystem\\pages\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|solutionrelative:jobportalsystem\\pages\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\jobportalsystem\\pages\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7164C3-86F7-4C00-BBBA-7B4C5B3D9F55}|Jobportalsystem\\Jobportalsystem.csproj|solutionrelative:jobportalsystem\\pages\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForgotPasswordHandler.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\ForgotPasswordHandler.aspx.cs",
+              "RelativeDocumentMoniker": "Jobportalsystem\\pages\\ForgotPasswordHandler.aspx.cs",
+              "ToolTip": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\ForgotPasswordHandler.aspx.cs",
+              "RelativeToolTip": "Jobportalsystem\\pages\\ForgotPasswordHandler.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:22:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgotPassword.aspx",
+              "DocumentMoniker": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\ForgotPassword.aspx",
+              "RelativeDocumentMoniker": "Jobportalsystem\\pages\\ForgotPassword.aspx",
+              "ToolTip": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\ForgotPassword.aspx",
+              "RelativeToolTip": "Jobportalsystem\\pages\\ForgotPassword.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-03T11:00:58.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginHandler.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\LoginHandler.aspx.cs",
+              "RelativeDocumentMoniker": "Jobportalsystem\\pages\\LoginHandler.aspx.cs",
+              "ToolTip": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\LoginHandler.aspx.cs",
+              "RelativeToolTip": "Jobportalsystem\\pages\\LoginHandler.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:43:36.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginHandler.aspx",
+              "DocumentMoniker": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\LoginHandler.aspx",
+              "RelativeDocumentMoniker": "Jobportalsystem\\pages\\LoginHandler.aspx",
+              "ToolTip": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\LoginHandler.aspx",
+              "RelativeToolTip": "Jobportalsystem\\pages\\LoginHandler.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-03T10:42:49.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Jobportalsystem\\pages\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Dashboard.aspx.cs",
+              "RelativeToolTip": "Jobportalsystem\\pages\\Dashboard.aspx.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:56:50.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Jobportalsystem\\pages\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Dashboard.aspx",
+              "RelativeToolTip": "Jobportalsystem\\pages\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-03T09:19:43.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Jobportalsystem\\pages\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Login.aspx.cs",
+              "RelativeToolTip": "Jobportalsystem\\pages\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:09:04.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Login.aspx",
+              "RelativeDocumentMoniker": "Jobportalsystem\\pages\\Login.aspx",
+              "ToolTip": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Login.aspx",
+              "RelativeToolTip": "Jobportalsystem\\pages\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-03T08:59:45.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Jobportalsystem\\pages\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Register.aspx.cs",
+              "RelativeToolTip": "Jobportalsystem\\pages\\Register.aspx.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:49:21.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Register.aspx",
+              "RelativeDocumentMoniker": "Jobportalsystem\\pages\\Register.aspx",
+              "ToolTip": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Register.aspx",
+              "RelativeToolTip": "Jobportalsystem\\pages\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-03T08:29:39.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Default.aspx",
+              "RelativeDocumentMoniker": "Jobportalsystem\\pages\\Default.aspx",
+              "ToolTip": "C:\\Users\\akhil\\Desktop\\ASP.net\\Jobportalsystem\\Jobportalsystem\\pages\\Default.aspx",
+              "RelativeToolTip": "Jobportalsystem\\pages\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-03T08:11:24.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
